@@ -15,8 +15,8 @@ You can find the old unsupported versions page of ProtocolSupport [here](https:/
 
 ## Custom Forks
 
-[Cursed ProtocolSupport](https://github.com/HowardZHY/ProtocolSupport)
-WindSpigot Edition by [Ayunami2000](https://github.com/ayunami2000)
+- [Cursed ProtocolSupport](https://github.com/HowardZHY/ProtocolSupport)
+- WindSpigot Edition by [Ayunami2000](https://github.com/ayunami2000)
 
 
 
