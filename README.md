@@ -6,9 +6,7 @@ Original Pages from [Shevchik](https://github.com/Shevchik) are down, so i colle
 
 ## Usage Notice
 
-Do not attempt to load/unload this plugin dynamically, as it won't work. The `/reload` command is blocked to prevent accidental reload of this plugin.
-
-Combine it with [ViaVersion](https://github.com/viaversion/viaversion) for the best experience!
+Do not attempt to load/unload this plugin dynamically, as it won't work. The `/reload` command is blocked to prevent accidental reload of this plugin. Combine it with [ViaVersion](https://github.com/viaversion/viaversion) for the best experience!
 
 ## Development Builds
 
