@@ -11,7 +11,7 @@ Do not attempt to load/unload this plugin dynamically, as it won't work. The `/r
 ## Development Builds
 
 You can find the old development builds page of ProtocolSupport [here](https://web.archive.org/web/20231001090722/http://build.true-games.org/job/ProtocolSupport/).
-You can find the old unsupported versions page of ProtocolSupport [here](https://web.archive.org/web/20220627194657/https://protocol.support/job/ProtocolSupport/).
+You can find the old unsupported versions page of ProtocolSupport [here](https://web.archive.org/web/20211213230627/https://protocol.support/old/).
 
 ## Custom Forks
 
